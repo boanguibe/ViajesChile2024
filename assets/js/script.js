@@ -1,3 +1,1 @@
-alert("Probando js");
-
-var edad = prompt("Ingresa tu edad");
+/* alert("Probando js"); */

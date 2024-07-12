@@ -5,3 +5,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: red;
 }
+
+#navegacion a {
+    color: white;
+    text-decoration: none;
+  }
