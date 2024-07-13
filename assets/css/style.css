@@ -6,7 +6,23 @@ body {
     color: red;
 }
 
+/*Seccion Nav*/
+.bg-header{
+    background-image: url('../img/carousel1.jpg');
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
 #navegacion a {
+    color: white;
+    text-decoration: none;
+  }
+
+
+/*Seccion footer*/
+footer a {
     color: white;
     text-decoration: none;
   }
